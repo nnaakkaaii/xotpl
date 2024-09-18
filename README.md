@@ -1,0 +1,2 @@
+# xotpl
+template for xo
